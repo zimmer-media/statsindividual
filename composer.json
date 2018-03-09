@@ -1,12 +1,12 @@
 {
   "name": "prestashop/statsindividual",
-  "description": "PrestaShop module statsindividual",
+  "description": "Thirty Bees module statsindividual",
   "homepage": "https://zimmer-media.de",
   "license": "AFL - Academic Free License (AFL 3.0)",
   "authors": [
     {
-      "name": "PrestaShop SA",
-      "email": "contact@prestashop.com"
+      "name": "zimmer-media-office",
+      "email": "info@zimmer-media.de"
     }
   ],
   "require": {
